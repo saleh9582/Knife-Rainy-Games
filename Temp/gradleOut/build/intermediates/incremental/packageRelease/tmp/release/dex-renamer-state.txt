@@ -1,0 +1,4 @@
+#Tue Jul 23 23:24:55 BDT 2019
+base.0=D\:\\Knife Survivor\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
